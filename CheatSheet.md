@@ -62,3 +62,9 @@
 | `Ctrl` + `Shift` + `~` | New Terminal         |
 | `Ctrl` + `~`           | Open Terminal        |
 | `Ctrl` + `Alt` + `~`   | Kill Active Terminal |
+
+## Language
+
+| Command                   | Function                    |
+| ------------------------- | --------------------------- |
+| `Alt` + `P` + `Alt` + `R` | Run Python File in Terminal |
