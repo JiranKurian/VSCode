@@ -1,7 +1,8 @@
-# VS Code Shortcuts
+# VS Code CheatSheet
 
 
 ## Open
+---
 
 | Command                     | Function                |
 | --------------------------- | ----------------------- |
@@ -13,12 +14,15 @@
 | `Ctrl` + `Shift` + `D`      | Open Run and Debug      |
 | `Ctrl` + `Shift` + `X`      | Open Extensions         |
 | `Ctrl` + `Shift` + `F`      | Open Global Search      |
+| `Ctrl` + `Shift` + `N`      | Open New Window         |
 | `Ctrl` + `F`                | Open Local Search       |
 | `Ctrl` + `E` / `Ctrl` + `P` | Open Got To File        |
 | `Ctrl` + `K` + `Ctrl` + `S` | Open Keyboard Shortcuts |
+| `Ctrl` + `K` + `Ctrl` + `O` | Open Folder             |
 | `Ctrl` + `Shift` + `T`      | Re-Open Closed Tab      |
 
 ## Toggle
+---
 
 | Command                | Function            |
 | ---------------------- | ------------------- |
@@ -26,12 +30,14 @@
 | `Ctrl` + `Shift` + `A` | Toggle Activity Bar |
 
 ## Close
+---
 
 | Command      | Function          |
 | ------------ | ----------------- |
 | `Ctrl` + `W` | Close Focused Tab |
 
 ## Breadcrumb
+---
 
 | Command                | Function         |
 | ---------------------- | ---------------- |
@@ -40,6 +46,7 @@
 | `Ctrl` + `Right Arrow` | Move Right       |
 
 ## Others
+---
 
 | Command                        | Function                  |
 | ------------------------------ | ------------------------- |
@@ -56,6 +63,7 @@
 
 
 ## Terminal
+---
 
 | Command                | Function             |
 | ---------------------- | -------------------- |
@@ -64,6 +72,7 @@
 | `Ctrl` + `Alt` + `~`   | Kill Active Terminal |
 
 ## Language
+---
 
 | Command                   | Function                    |
 | ------------------------- | --------------------------- |
